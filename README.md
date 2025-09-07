@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Milton Del Aguila  
 
-<!--
-**miltondl/miltondl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Data Analyst** with a background in agricultural data quality and AI applications.  
+Currently, I’m learning **Machine Learning** and **Big Data Analysis** to combine technical skills with real-world impact in agriculture and beyond.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+- [📊 Coffee Data Quality Analysis](#) – Analysis of human tagging actions in a quality control process.  
+- [🤖 Intro to Machine Learning](#) – Beginner ML models for classification and prediction.  
+- [🌱 Agricultural Visualizations](#) – Dashboards and plots to monitor threats in crop imagery.  
+
+---
+
+## 🛠️ Tech & Tools
+- **Languages**: Python, SQL  
+- **Data**: Pandas, NumPy, Matplotlib, Scikit-learn  
+- **Databases**: BigQuery, PostgreSQL  
+- **Other**: Excel, Google Sheets, Jupyter Notebook, Git & GitHub  
+
+---
+
+## 📫 Connect with Me
+- [LinkedIn](https://linkedin.com/in/your-profile)  
+- [Email](mailto:your-email@example.com)  
