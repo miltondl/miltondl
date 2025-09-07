@@ -16,7 +16,7 @@ I work with **Python, SQL, and BigQuery** to analyze and transform raw data, whi
 ---
 
 ## 🚀 Featured Projects
-- [📊 Coffee Data Quality Analysis](#) – Analysis of human tagging actions in a quality control process. (https://github.com/miltondl/My_Projects/tree/main/Patch_Report_Automation)
+- [📊 Automated Annotation Tracker](https://github.com/miltondl/My_Projects/tree/main/Patch_Report_Automation) – Analysis of human tagging actions in a quality control process. 
 - [🤖 Intro to Machine Learning](#) – Beginner ML models for classification and prediction.  
 - [🌱 Agricultural Visualizations](#) – Dashboards and plots to monitor threats in crop imagery.  
 
