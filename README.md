@@ -3,7 +3,7 @@
 I’m a **Data Analyst** with a background in agricultural data quality and tagging workflows.  
 I focus on **process optimization** and enjoy thinking creatively to design solutions that improve accuracy, efficiency, and impact.  
 
-I work with **Python, SQL, and BigQuery** to analyze and transform raw data, while exploring **Machine Learning** and **Big Data Analysis** to apply AI in real-world agricultural challenges.  
+I work with **Python, SQL, and BigQuery** to analyze and transform raw data, while exploring **Machine Learning** and **Big Data Analysis** to apply AI in real-world challenges.  
 
 ---
 
