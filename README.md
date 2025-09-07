@@ -31,5 +31,5 @@ I work with **Python, SQL, and BigQuery** to analyze and transform raw data, whi
 ---
 
 ## 📫 Connect with Me
-- [LinkedIn](https://linkedin.com/in/your-profile)  
-- [Email](mailto:your-email@example.com)  
+- [LinkedIn](https://linkedin.com/in/milton-del-aguila-3076a9139)  
+- [Email](mailto:miltondele@gmail.com)  
