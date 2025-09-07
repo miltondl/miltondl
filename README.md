@@ -16,7 +16,7 @@ I work with **Python, SQL, and BigQuery** to analyze and transform raw data, whi
 ---
 
 ## 🚀 Featured Projects
-- [📊 Automated Annotation Tracker](https://github.com/miltondl/My_Projects/tree/main/Patch_Report_Automation) – Analysis of human tagging actions in a quality control process. 
+- [📊 Automated Annotation Tracker](https://github.com/miltondl/My_Projects/tree/main/Patch_Report_Automation) – An end-to-end automation workflow that validates annotation data, identifies the tagger for each annotation in Dataloop, and updates a BigQuery table automatically. The system cross-checks multiple reports, ensures data consistency, and reduces manual effort, providing a reliable and efficient way to maintain data quality in large-scale agricultural datasets. 
 - [🤖 Intro to Machine Learning](#) – Beginner ML models for classification and prediction.  
 - [🌱 Agricultural Visualizations](#) – Dashboards and plots to monitor threats in crop imagery.  
 
