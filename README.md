@@ -24,9 +24,9 @@ I work with **Python, SQL, and BigQuery** to analyze and transform raw data, whi
 
 ## 🛠️ Tech & Tools
 - **Languages**: Python, SQL  
-- **Data**: Pandas, NumPy, Matplotlib, Scikit-learn  
-- **Databases**: BigQuery, PostgreSQL  
-- **Other**: Excel, Google Sheets, Jupyter Notebook, Jira
+- **Data**: Pandas, NumPy, Matplotlib
+- **Databases**: BigQuery, PostgreSQL
+- **Other**: Excel, Google Sheets, Jupyter Notebook, Looker Studio
 
 ---
 
