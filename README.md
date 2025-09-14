@@ -20,13 +20,13 @@ I’m a **Data Analyst** with a strong focus on automation, process optimization
 
 ## 💼 Portfolio Projects  
 
-Here are selected projects that highlight my skills in **data analysis, automation, and visualization**:  
+Selected projects showcasing my skills in **data analysis, automation, and visualization**:  
 
-- [🎯 Taggers Qualification](./taggers-qualification) – End-to-end evaluation pipeline: build a golden dataset, create controlled annotation tasks for taggers, and analyze performance (confusion matrices, per-label precision/recall, error reports).
-- [📊 Automated Annotation Tracker](./Patch_Report_Automation) – Automates validation of annotation data, identifies taggers in Dataloop, and updates BigQuery tables to ensure data quality efficiently.  
+- [🎯 Taggers Qualification](https://github.com/miltondl/My_Projects/tree/main/taggers-qualification) – End-to-end evaluation pipeline: build a golden dataset, create controlled annotation tasks for taggers and new QC members, and analyze performance (confusion matrices, per-label precision/recall, error reports).  
+- [📊 Automated Annotation Tracker](https://github.com/miltondl/My_Projects/tree/main/Patch_Report_Automation) – Automates validation of annotation data, identifies taggers in Dataloop, and updates BigQuery tables efficiently.  
 - [✅ LabelCheck Validation](https://github.com/miltondl/My_Projects/tree/main/labelcheck-validation) – Weekly proportional sampling with human-in-the-loop validation to measure and improve annotation accuracy.  
-- [📈 Datapoints Usage Tracker](./datapoints-usage-tracker) – Tracks datapoints usage across projects/teams and visualizes results in Looker Studio.  
-- [🌿 Weeds Tagging Coverage (SQL)](./weeds-tagging-coverage) – Advanced SQL analysis of weeds tagging coverage using tag counts and score metrics.  
+- [📈 Datapoints Usage Tracker](https://github.com/miltondl/My_Projects/tree/main/datapoints-usage-tracker) – Tracks datapoints usage across projects/teams and visualizes results in Looker Studio.  
+- [🌿 Weeds Tagging Coverage (SQL)](https://github.com/miltondl/My_Projects/tree/main/weeds-tagging-coverage) – Advanced SQL analysis of weeds tagging coverage using tag counts and coverage scores, with filters for client, crop, and field.   
 
 ---
 ### 🚀 Tech stack
