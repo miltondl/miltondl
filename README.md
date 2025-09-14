@@ -25,4 +25,6 @@ I’m a **Data Analyst** with a strong focus on automation, process optimization
 
 👉 You can check my **projects folder** for examples of how I apply these skills in real workflows.  
 
-## 📫 Connect with Me - [LinkedIn](https://linkedin.com/in/milton-del-aguila-3076a9139) - [Email](mailto:miltondele@gmail.com)
+## 📫 Connect with Me
+- [LinkedIn](https://linkedin.com/in/milton-del-aguila-3076a9139)  
+- [Email](mailto:miltondele@gmail.com)  
