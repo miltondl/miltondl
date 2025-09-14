@@ -1,35 +1,26 @@
-# 👋 Hi, I'm Milton Del Aguila  
+# 👋 Hi, I’m Milton  
 
-I’m a **Data Analyst** with a background in agricultural data quality and tagging workflows.  
-I focus on **process optimization** and enjoy thinking creatively to design solutions that improve accuracy, efficiency, and impact.  
+I’m a **Data Analyst** with a strong focus on automation, process optimization, and turning complex data workflows into clear insights.  
 
-I work with **Python, SQL, and BigQuery** to analyze and transform raw data, while exploring **Machine Learning** and **Big Data Analysis** to apply AI in real-world challenges.  
-
----
-
-## 🚀 What I Do
-- Turn data into actionable insights for decision-making  
-- Optimize workflows to save time and reduce errors  
-- Use creativity and out-of-the-box thinking to solve problems  
-- Build notebooks and dashboards for data analysis
+- ⚡ Skilled in **Python** (data pipelines, automation, APIs) and **SQL** (data modeling, analytics).  
+- 📊 Experienced in building **dashboards and reports** that drive decisions (Google Sheets, Looker Studio, AppSheet).  
+- 🔍 Comfortable working with **large datasets**, cleaning, structuring, and analyzing them to uncover patterns.  
+- 🤝 Enjoy collaborating with cross-functional teams and translating technical solutions into practical impact.  
+- 🌱 Currently deepening my knowledge in **Machine Learning & Big Data**.  
 
 ---
 
-## 🚀 Featured Projects
-- [📊 Automated Annotation Tracker](https://github.com/miltondl/My_Projects/tree/main/Patch_Report_Automation) - Automates validation of annotation data, identifies taggers in Dataloop, and updates BigQuery tables to ensure data quality efficiently.
-- [🤖 Intro to Machine Learning](#) – Beginner ML models for classification and prediction.  
-- [🌱 Agricultural Visualizations](#) – Dashboards and plots to monitor threats in crop imagery.  
+### 🔨 What I build
+- **Automated data pipelines** → to save hours of manual work.  
+- **Quality control systems** → to ensure accuracy in large-scale datasets.  
+- **Dashboards & trackers** → to make usage, performance, and progress visible at a glance.  
+- **Validation workflows** → to measure accuracy of human or AI decisions.  
 
 ---
 
-## 🛠️ Tech & Tools
-- **Languages**: Python, SQL  
-- **Data**: Pandas, NumPy, Matplotlib
-- **Databases**: BigQuery, PostgreSQL
-- **Other**: Excel, Google Sheets, Jupyter Notebook, Looker Studio
+### 🚀 Tech stack
+`Python` · `SQL` · `BigQuery` · `Pandas` · `APIs` · `Google Sheets` · `Looker Studio` · `AppSheet`  
 
 ---
 
-## 📫 Connect with Me
-- [LinkedIn](https://linkedin.com/in/milton-del-aguila-3076a9139)  
-- [Email](mailto:miltondele@gmail.com)  
+👉 You can check my **projects folder** for examples of how I apply these skills in real workflows.  
