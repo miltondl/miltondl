@@ -18,6 +18,16 @@ I’m a **Data Analyst** with a strong focus on automation, process optimization
 
 ---
 
+## 💼 Portfolio Projects  
+
+Here are selected projects that highlight my skills in **data analysis, automation, and visualization**:  
+
+- [📊 Automated Annotation Tracker](./Patch_Report_Automation) – Automates validation of annotation data, identifies taggers in Dataloop, and updates BigQuery tables to ensure data quality efficiently.  
+- [✅ LabelCheck Validation](./labelcheck-validation) – Weekly proportional sampling with human-in-the-loop validation to measure and improve annotation accuracy.  
+- [📈 Datapoints Usage Tracker](./datapoints-usage-tracker) – Tracks datapoints usage across projects/teams and visualizes results in Looker Studio.  
+- [🌿 Weeds Tagging Coverage (SQL)](./weeds-tagging-coverage) – Advanced SQL analysis of weeds tagging coverage using tag counts and score metrics.  
+
+---
 ### 🚀 Tech stack
 `Python` · `SQL` · `BigQuery` · `Pandas` · `APIs` · `Google Sheets` · `Looker Studio` · `AppSheet`  
 
